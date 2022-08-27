@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile!
+
+🔭 I’m currently working on a personal graph module in Python.
+Feel free to check it out.
+
+Besides that im finding my way into the java programming language to extend my abilities in the Big Data context.
+
+
 
 <!--
 **metalluca/metalluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
