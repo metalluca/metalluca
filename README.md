@@ -4,7 +4,7 @@
 <br>
 :pushpin: My main focus lies on Data-Science, Big Data and Python development. 
 
-:computer: Currently I am working on an graph module containing varoius algorithms in python. 
+:computer: Currently I am working on an graph module containing various algorithms in python. 
 Feel free to check it out.
 
 
