@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to my profile!
 
 :mortar_board: I'm a Master's student in Information Systems Engineering and part-time developer curious about learning new technologies.
+<br>
 :pushpin: My main focus lies on Data-Science, Big Data and Python development. 
 
 :computer: Currently I am working on an graph module containing varoius algorithms in python. 
